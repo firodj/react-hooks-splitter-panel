@@ -1,3 +1,15 @@
+# React Hooks Splitter Panel
+
+![Screenshot](screenshot.png)
+
+This project to demonstration splitter panel using Hooks API with more than one custom hooks:
+
+* useDragging
+* useResizeObserver
+
+And Bonus (not used):
+* useStateRef
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
